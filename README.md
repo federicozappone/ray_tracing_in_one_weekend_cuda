@@ -1,4 +1,4 @@
-# Ray Tracing in One Weekend
+# Ray Tracing in One Weekend with CUDA
 
 ![Render](/assets/images/render.png)
 
@@ -18,7 +18,7 @@ ninja -C build
 
 ```
 ./build/src/main > assets/images/render.ppm
-eog render.ppm
+eog assets/images/render.ppm
 ```
 
 ### Converting results to jpeg
