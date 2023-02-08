@@ -1,4 +1,4 @@
-# Ray Tracing in One Weekend
+# Ray Tracing in One Weekend with CUDA
 
 ![Render](/assets/images/render.png)
 
