@@ -18,7 +18,7 @@ ninja -C build
 
 ```
 ./build/src/main > assets/images/render.ppm
-eog render.ppm
+eog assets/images/render.ppm
 ```
 
 ### Converting results to jpeg
